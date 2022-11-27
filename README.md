@@ -1,3 +1,1 @@
-Yolov5ObjectDetection Klasöründen kodlara bakınız !!!!!!
 
-Uploading İsimsiz video ‐ Clipchamp ile yapıldı (1).mp4…
